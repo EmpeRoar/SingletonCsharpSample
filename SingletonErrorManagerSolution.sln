@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonErrorManager.WebApi", "SingletonErrorManager.WebApi\SingletonErrorManager.WebApi.csproj", "{0043616F-876D-4591-89D9-4391DC15E147}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonErrorManager.ErrorManager", "SingletonErrorManager.ErrorManager\SingletonErrorManager.ErrorManager.csproj", "{A3809278-C0E9-462B-BB1B-620E850AF74B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0043616F-876D-4591-89D9-4391DC15E147}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0043616F-876D-4591-89D9-4391DC15E147}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0043616F-876D-4591-89D9-4391DC15E147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3809278-C0E9-462B-BB1B-620E850AF74B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3809278-C0E9-462B-BB1B-620E850AF74B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3809278-C0E9-462B-BB1B-620E850AF74B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3809278-C0E9-462B-BB1B-620E850AF74B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
